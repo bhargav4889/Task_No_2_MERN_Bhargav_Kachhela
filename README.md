@@ -13,7 +13,7 @@
 
 Then Go to Main Project Code 
    ```bash
-   cd currency-converter
+   cd theme-app
 ```
 
  Install node modules 
